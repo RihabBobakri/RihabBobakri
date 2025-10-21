@@ -5,7 +5,7 @@
 
 - 🌱 DevOps Engineer with a Master's degree in Systems Administration, Security, and Cloud Computing. Experienced in automating and securing the full application lifecycle using tools like Kubernetes, Docker, and AWS. Successfully built and maintained robust CI/CD pipelines that increased deployment efficiency. Passionate about designing scalable, secure, and observable infrastructure.
 
-- 💬 Ask me about **Backend Development ,System Administration**
+- 💬 Ask me about **Backend Development ,System Administration, DEVOPS, CLOUD**
 
 - 📫 How to reach me **rihab.boubakri@outlook.fr**
 
