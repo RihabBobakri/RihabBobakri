@@ -3,11 +3,11 @@
 <img align="right" alt="System Administrator" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RihabBobakri&label=Profile%20views&color=0e75b6&style=flat" alt="RihabBobakri" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Cloud Computing**
+- 🌱 DevOps Engineer with a Master's degree in Systems Administration, Security, and Cloud Computing. Experienced in automating and securing the full application lifecycle using tools like Kubernetes, Docker, and AWS. Successfully built and maintained robust CI/CD pipelines that increased deployment efficiency. Passionate about designing scalable, secure, and observable infrastructure.
 
 - 💬 Ask me about **Backend Development ,System Administration**
 
-- 📫 How to reach me **rihab.boubakri@sfax.r-iset.tn**
+- 📫 How to reach me **rihab.boubakri@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
